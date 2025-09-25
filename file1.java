@@ -1,4 +1,4 @@
-public class SumExample {
+public class file1{
     public static void main(String[] args) {
         int a = 5;  // You can change this value
         int b = 7;  // You can change this value
